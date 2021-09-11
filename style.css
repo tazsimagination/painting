@@ -98,9 +98,10 @@ textarea:valid~label{
     flex-basis: 48%;
 }
 .div-home{
-    font-size: 50px;
+    font-size: 30px;
     color:beige;
     text-decoration: none;
+    width:50%;
    
 }
 .service1{
